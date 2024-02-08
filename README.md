@@ -4,7 +4,8 @@
 
 ### :rocket: About Me
 
-With a strong background in Artificial Intelligence and Mathematics the pursuit of knowledge has always been a pivotal aspect of my life. This has inspired me to build my professional career around the world of data, as it aligns perfectly with my studies and offers a constantly evolving system of new theories and technologies.
+With a strong background in Artificial Intelligence and Mathematics the pursuit of knowledge has always been a pivotal aspect of my life. 
+This has inspired me to build my professional career around the world of data, as it aligns perfectly with my studies and offers a constantly evolving system of new theories and technologies.
 
 ### :school: Education
 - ***B.Sc. in Mathematics*** @ National Kapodistrian University of Athens, Athens, Greece
@@ -12,7 +13,7 @@ With a strong background in Artificial Intelligence and Mathematics the pursuit 
 - ***M.Sc. in Artificial Intelligence (A.I.)*** @ NCSR Demokritos and University of Piraeus, Athens, Greece
 
 ### :grey_exclamation: Interests/Keywords
-- ***A.I.*** : Machine/Deep Learning, eXplainable AI (XAI), Generative AI, NLP & Language Modeling, Computer Vision, Clustering, Time Series
+- ***A.I.*** : Machine/Deep Learning, eXplainable AI (XAI), Generative AI, <br/> &nbsp; &nbsp; &nbsp; &nbsp; NLP & Language Modeling, Computer Vision, Clustering, Time Series
 - ***Math*** : Mathematical Calculus, Linear Algebra & Matrix Theory, Probability Theory, Statistics
 
 ### :office_worker: Work experience
