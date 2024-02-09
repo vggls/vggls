@@ -12,7 +12,7 @@ This has inspired me to build my professional career around the world of data, a
 - ***Math*** : Mathematical Calculus, Linear Algebra & Matrix Theory, Probability Theory, Statistics
 
 ### :office_worker: Work experience & :school: Education
-Detailed work and educational history available at my [*LinkedIn*](www.linkedin.com/in/vaggelis-lamprou-a25394167) profile
+Detailed work and educational history is available at my [*LinkedIn*](www.linkedin.com/in/vaggelis-lamprou-a25394167) profile
 
 ### :computer: Tech skills
 - *Programming*: Python 
