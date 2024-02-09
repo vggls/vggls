@@ -4,20 +4,15 @@
 
 ### :rocket: About Me
 
-With a strong background in Artificial Intelligence and Mathematics the pursuit of knowledge has always been a pivotal aspect of my life. 
+With a strong background in Artificial Intelligence (M.Sc.) and Mathematics (B.Sc., M.Sc.) the pursuit of knowledge has always been a pivotal aspect of my life. 
 This has inspired me to build my professional career around the world of data, as it aligns perfectly with my studies and offers a constantly evolving system of new theories and technologies.
-
-### :school: Education
-- ***B.Sc. in Mathematics*** @ National Kapodistrian University of Athens, Athens, Greece
-- ***M.Sc. in Mathematics*** @ Rheinische Friedrich-Wilhelms-Universität Bonn, Bonn, Germany
-- ***M.Sc. in Artificial Intelligence (A.I.)*** @ NCSR Demokritos and University of Piraeus, Athens, Greece
 
 ### :grey_exclamation: Interests/Keywords
 - ***A.I.*** : Machine/Deep Learning, eXplainable AI (XAI), Generative AI, <br/> &nbsp; &nbsp; &nbsp; &nbsp; NLP & Language Modeling, Computer Vision, Clustering, Time Series
 - ***Math*** : Mathematical Calculus, Linear Algebra & Matrix Theory, Probability Theory, Statistics
 
-### :office_worker: Work experience
-Please refer to my [*LinkedIn*](www.linkedin.com/in/vaggelis-lamprou-a25394167) profile
+### :office_worker: Work experience & :school: Education
+Detailed work and educational history available at my [*LinkedIn*](www.linkedin.com/in/vaggelis-lamprou-a25394167) profile
 
 ### :computer: Tech skills
 - *Programming*: Python 
