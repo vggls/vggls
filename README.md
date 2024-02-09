@@ -11,7 +11,7 @@ This has inspired me to build my professional career around the world of data, a
 - ***A.I.*** : Machine/Deep Learning, eXplainable AI (XAI), Generative AI, <br/> &nbsp; &nbsp; &nbsp; &nbsp; NLP & Language Modeling, Computer Vision, Clustering, Time Series
 - ***Math*** : Mathematical Calculus, Linear Algebra & Matrix Theory, Probability Theory, Statistics
 
-### :office_worker: Work experience & :school: Education
+### :office_worker: Work experience & Education :school:
 Detailed work and educational history is available at my [*LinkedIn*](www.linkedin.com/in/vaggelis-lamprou-a25394167) profile
 
 ### :computer: Tech skills
