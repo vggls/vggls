@@ -20,7 +20,7 @@ Detailed work and educational history available at my [*LinkedIn*](www.linkedin.
 - *Version Control*: Git
 - *Big Data Processing*: Azure Databricks, PySpark
 - *Data Analysis Python Tools*: Numpy, Pandas, Seaborn, Matplotlib, Plotly
-- *Machine/Deep Learning Python Tools*: sklearn, sktime, TensorFlow, PyTorch, Hugging Face, OpenCV, MLflow, Hyperopt
+- *Machine/Deep Learning Python Tools*: sklearn, sktime, TensorFlow, PyTorch, Hugging Face, OpenCV, MLflow
 - *XAI Python Tools*: lime, shap, pytorch-grad-cam
 - *Visualizations/Presentations*: MS Power BI, MS Office Tools
 
