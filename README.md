@@ -2,10 +2,11 @@
      <img src="https://github.com/vggls/vggls/assets/55101427/145d8082-65e0-4334-90f3-86e2faea019f.png" height="240" width="700" />
    </p>
 
-### :rocket: About Me
+
+<!-- ### :rocket: About Me
 
 With a strong background in Artificial Intelligence (M.Sc.) and Mathematics (B.Sc., M.Sc.) the pursuit of knowledge has always been a pivotal aspect of my life. 
-This has inspired me to build my professional career around the world of data, as it aligns perfectly with my studies and offers a constantly evolving system of new theories and technologies.
+This has inspired me to build my professional career around the world of data, as it aligns perfectly with my studies and offers a constantly evolving system of new theories and technologies.-->
 
 ### :grey_exclamation: Interests/Keywords
 - ***A.I.*** : Machine/Deep Learning, eXplainable AI (XAI), Generative AI, <br/> &nbsp; &nbsp; &nbsp; &nbsp; NLP & Language Modeling, Computer Vision, Clustering, Time Series
