@@ -20,7 +20,7 @@ Detailed work and educational history is available at my [*LinkedIn*](www.linked
 - *Database Management*: PostgreSQL
 - *Version Control*: Git
 - *Data Analysis Python Tools*: Numpy, SciPy, Pandas, Seaborn, Matplotlib, Plotly
-- *Machine/Deep Learning Python libraries*: sklearn, sktime, Keras, PyTorch, transformers, NLTK, OpenCV, librosa, [ninabel](https://pypi.org/project/nibabel/)
+- *Machine/Deep Learning Python libraries*: sklearn, sktime, Keras, PyTorch, transformers, NLTK, OpenCV, librosa, NiBabel
 - *XAI Python libraries*: lime, shap, pytorch-grad-cam
 - *Big Data Processing*: Azure Databricks, PySpark
 - *MLOps tools*: MLflow 
